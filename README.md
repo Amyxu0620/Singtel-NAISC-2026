@@ -1,3 +1,4 @@
+
 **Team Name:** Parallax
 
 Parallax is a data drift detection and mitigation pipeline built for the NAISC Singtel Hackathon. It compares training and test datasets, detects numerical and categorical drift, applies mitigation strategies, trains a churn prediction model, and produces prediction outputs for evaluation.
